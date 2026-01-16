@@ -50,7 +50,7 @@ Always open to learning, collaboration, and new opportunities 🚀
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WaseemBandough&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waseem Bandug&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waseem-bandough&layout=compact)
 
