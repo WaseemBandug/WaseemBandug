@@ -50,10 +50,8 @@ Always open to learning, collaboration, and new opportunities 🚀
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waseem-bandough&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waseem-bandough&layout=compact)
 
----
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=waseem-bandough)
