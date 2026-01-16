@@ -1,6 +1,6 @@
 ## ✨ Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am **Waseem Bandough** 👨‍💻  
+I am **Waseem Bandug** 👨‍💻  
 A **Computer Science student**, passionate about programming, problem-solving, and learning modern technologies.  
 I enjoy working on academic projects, practicing algorithms, and building small applications as I grow my skills step by step.  
 Always open to learning, collaboration, and new opportunities 🚀
@@ -9,7 +9,7 @@ Always open to learning, collaboration, and new opportunities 🚀
 
 ## 🔗 Connect with me
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Waseem%20Bandough-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Waseem%20Bandoug-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Instagram Badge](https://img.shields.io/badge/-waseem.dev-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
 [![Gmail Badge](https://img.shields.io/badge/-waseem@email.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:waseem@email.com)
@@ -50,8 +50,8 @@ Always open to learning, collaboration, and new opportunities 🚀
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waseem Bandug&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WaseemBandug&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waseem-bandough&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WaseemBandug&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=waseem-bandough)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=WaseemBandug)
